@@ -9,8 +9,8 @@ class LoginTest(unittest.TestCase):
         self.driver.maximize_window()
     def test_login(self):
         driver = self.driver
-        fbname = '8534967541'
-        fpwd = 'Anant@768'
+        fbname = 'xxxx'
+        fpwd = 'xxxx'
 
         emailField = 'email'
         pswdField = 'pass'

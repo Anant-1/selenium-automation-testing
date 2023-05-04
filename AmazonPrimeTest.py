@@ -11,8 +11,8 @@ class LoginTest(unittest.TestCase):
         self.driver.maximize_window()
     def test_login(self):
         driver = self.driver
-        apname = '8534967541'
-        apwd = 'Khurja@123'
+        apname = 'xxxx'
+        apwd = 'xxxx'
 
         emailField = 'ap_email'
         pswdField = 'ap_password'
